@@ -1,0 +1,12 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "helloworldpractice-client-side-solution",
+    "id": "04c7dc92-e0f7-482e-8f64-3a01f17d36ad",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/helloworldpractice.sppkg"
+  }
+}
